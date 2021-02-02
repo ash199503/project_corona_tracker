@@ -10,4 +10,4 @@ Setup:
 run npm i && npm start
 
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](coronatrackerashish-7c65f9.netlify.app)
